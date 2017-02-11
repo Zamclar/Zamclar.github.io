@@ -141,3 +141,8 @@ there are definitely some properties you should add!*/
     background-color: #15274F;
     color: white;
 }
+
+ #button:hover{
+   background-color: #15274F;
+   color: white;
+ }
